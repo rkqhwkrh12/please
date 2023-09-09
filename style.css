@@ -1,8 +1,70 @@
 h1 {
   text-align: center;
 }
+
 .liah img{
  width: 300px;
  height: 200px;
  border-radius: 30%;
 }
+
+
+.seoi {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.seoi img {
+  height: 100px;
+  width: 100px;
+  border-radius: 30%;
+}
+.potato {
+  font-weight: 800;
+}
+
+.bong {
+  width: 900px;
+  height: 900px;
+}
+#pic1 {
+
+  width: 225px;
+  height: 225px; 
+}
+#pic2 {
+ 
+  width: 225px;
+  height: 225px;
+}
+#pic3 {
+  
+  width: 225px;
+  height: 225px;
+}
+#pic4 {
+ 
+  width: 225px;
+  height: 225px;
+}
+
+.gari {
+  display: flex;
+  font-weight: 900;
+  color: white;
+  text-shadow: -1px 0 #000, 0 0.1px #000, 0.1px 0 #000, 0 -0.1px #000;
+}
+
+#battery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+
+#battery span {
+  margin-right: 10px;
+
+}
+

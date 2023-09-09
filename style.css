@@ -1,3 +1,15 @@
 h1 {
   text-align: center;
 }
+
+.seoi {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.seoi img {
+  height: 100px;
+  width: 100px;
+  border-radius: 30%;
+}

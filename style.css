@@ -13,3 +13,24 @@ h1 {
   width: 100px;
   border-radius: 30%;
 }
+.potato {
+  font-weight: 800;
+}
+
+.gari {
+  display: flex;
+  font-weight: 900;
+  color: white;
+  text-shadow: -1px 0 #000, 0 0.1px #000, 0.1px 0 #000, 0 -0.1px #000;
+}
+
+#battery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+
+#battery span {
+  margin-right: 10px;
+}
